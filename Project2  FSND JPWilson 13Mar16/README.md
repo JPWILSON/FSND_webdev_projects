@@ -3,7 +3,7 @@
 This is my **second README!** 
 It details the format of my submission for Project 2 - a game tournament database. 
 
-GitHub: https://github.com/JPWILSON/FSND-Projects/tree/master/Project2-TournamentResults
+GitHub: https://github.com/JPWILSON/FSND_webdev_projects
 
 ##About
 
